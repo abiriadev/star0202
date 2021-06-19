@@ -15,11 +15,26 @@
 </b>
 
 <h1 align="center">Contact Me 🔔</h2>
-<b>
-  <a href="https://discord.com/users/798690702635827200"><p align="center">Discord</p></a>
-  <a href="https://twitter.com/devstar0202"><p align="center">Twitter</p></a>
-  <a href="mailto:devstar0202@gmail.com"><p align="center">Mail</p></a>
-</b>
+<p align="center">
+    <a href="https://discord.com/users/798690702635827200" target="_blank">
+        <img
+            src="https://img.shields.io/badge/discord%20-5865F2?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="my discord profile link"
+        />
+    </a>
+    <a href="https://twitter.com/devstar0202" target="_blank">
+        <img
+            src="https://img.shields.io/twitter/follow/devstar0202?color=%231DA1F2&logo=twitter&style=for-the-badge"
+            alt="twitter profile link"
+        />
+    </a>
+    <a href="mailto:devstar0202@gmail.com" target="_blank"
+        ><img
+            src="https://img.shields.io/badge/devstar0202@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="link for sending email to me"
+        />
+    </a>
+</p>
 
 <br>
 <br>
